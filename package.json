@@ -1,0 +1,28 @@
+{
+  "name": "proyecto-grunt",
+  "version": "1.0.0",
+  "description": "Inicios de Grunt como automatizador de tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXAreizaXx/Aprendiendo_Grunt.git"
+  },
+  "author": "Jorge Areiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xXAreizaXx/Aprendiendo_Grunt/issues"
+  },
+  "homepage": "https://github.com/xXAreizaXx/Aprendiendo_Grunt#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "grunt": "^1.4.1",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-postcss": "^0.9.0"
+  }
+}
